@@ -1,5 +1,4 @@
 # Automação de Sistemas e Processos com Python
-### Hashtag Programação - Intensivão de Python
 ### Desafio:
 
 Todos os dias o nosso sistema atualiza as vendas do dia anterior.
